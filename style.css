@@ -47,6 +47,8 @@ nav {
     font-size: 1.1em;
 }
 #contact:hover{
+    transition: ease-in;
+    transition-duration: 2s;
     background-color: #6ECEFE;
     color: white;
 }
