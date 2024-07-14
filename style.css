@@ -47,7 +47,7 @@ nav {
     font-size: 1.1em;
 }
 #contact:hover{
-    transition:linear;
+    transition:ease-in;
     transition-duration: 0.3s;
     background-color: #6ECEFE;
     color: white;
